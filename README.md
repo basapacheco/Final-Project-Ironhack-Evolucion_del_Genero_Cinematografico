@@ -1,26 +1,21 @@
-# NOMBRE DEL PROYECTO (Crear un nombre en mayúscula y agregar :film_projector: :file_cabinet:)
+# EVOLUCIÓN DEL GENERO CINEMATOGRAFICO (:film_projector: :file_cabinet:)
 
 
 IMAGEN DISNEY, NETFLIX, AMAZON PRIME, HULU y IMDB
 
-¿Qué es y en que consiste el proyecto? (Borrar pregunta y desarrollar: Qué hace el proyecto y de dónde se sacaron los datos (con los enlaces)), propósito del proyecto, como se juntaron los datos para hacer una pocas librerías + proceso de limpiado de datos.
 
+El proyecto presentado es un estudio de la evolución del genero cinematográfico en las plataformas de Disney, Netflix, Amazon Prime y Hulu, con una unión de sus valoraciones de IMDB. Este estudio pretende desvelar como a evolucionado la industria del contenido cinematográfico para adaptarse al consumidor.
 
-### LIBRERÍAS USADAS
+Los datos utilizados en este proyecto se han sacado de varias fuentes de datos de Kaggle y más tarde han sido tratados con el fin de estandarizarlos y rellenar las partes faltantes.
 
--Libreria 1
--Libreria 2
--Libreria 3
--Libreria 4
--Libreria 5
--Libreria 6
--....
-(Las librerías usadas en los el proyecto)
+Este proceso ha dado como resultado dos archivos de información mediante un análisis de la evolución del contenido y un análisis de regresión, donde podremos apreciar como la industria esta creciendo en cantidad y calidad para poder satisfacer todo tipo de demanda, y como ha ido creciendo la industria en términos de cantidad para poder dar respuesta a la alta demanda en las plataformas de streaming.
 
 
 ### Datos
 
-Comentar de donde se sacaron los datos, proceso de limpieza de datos y proceso de unión de datos
+El dataset de este proyecto proviene de un match entre varios dataset de Kaggle y un posterior proceso de limpieza y unión de datos, dando como resultado los datos ubicados en la carpeta Data los cuales se han pasado a denominar coste_año.csv, disney_plus.csv, netflix_titles.csv y peliculas_plataforma.csv 
+
+Dichos datos son producto de la recolección, análisis y limpiezas de las siguientes fuentes.
 
 -Datos 1: https://www.kaggle.com/shivamb/netflix-shows
 -Datos 2: https://www.kaggle.com/chasewillden/netflix-shows
@@ -31,6 +26,12 @@ Comentar de donde se sacaron los datos, proceso de limpieza de datos y proceso d
 -Datos 7: https://www.kaggle.com/unanimad/disney-plus-shows
 -Datos 8: https://www.kaggle.com/nilimajauhari/amazon-prime-tv-shows
 
+
+### LIBRERÍAS USADAS
+
+-Libreria 1 PANDAS
+-Libreria 2 MATPLOTLIB
+-Libreria 3 SEABORN
 
 ## Data Preparation :chart_with_upwards_trend: :gear:
 
@@ -51,23 +52,19 @@ Comentar de donde se sacaron los datos, proceso de limpieza de datos y proceso d
 ## Data Analysis :chart_with_downwards_trend: :mag:
 
 ### Overview
-Presentar datasets
 
-Dataset 1
-Que hace
-Lo más importe del dataset
+Se han creado dos análisis, un análisis de la evolución del cine en plataformas y un análisis de regresión.
 
-Dataset 2
-Que hace
-Lo más importe del dataset
+Análisis de la evolución del cine en plataformas
+
+Este análisis comprende un análisis exploratorio del contenido junto a dos gráficas, una gráfica para entender como a evolucionado la industria en niveles de calidad y un análisis que nos premie ver como evoluciona la cantidad de contenido ofrecido.
+
+Análisis de Regresión
+Este análisis nos permite ver cómo se ha ido creciendo el contenido a los largo del tiempo y, finalmente, ver el contenido más demandado y valorado.
 
 
 
 ## Proximos pasos :chart_with_downwards_trend: :mag:
-1. Crear Api de recolección de datos en NETFLIX, DISNEY, HULU 
+1. Crear Api de recolección de automaticas datos en NETFLIX, DISNEY, HULU 
 2. Crear Api de recolección de datos de IMDB
 2. Crear Dashboard de recomendación
-
-
-## Conclusión :chart_with_downwards_trend: :mag:
-
