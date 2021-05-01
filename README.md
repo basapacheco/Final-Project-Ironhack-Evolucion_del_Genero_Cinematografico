@@ -11,7 +11,7 @@ Los datos utilizados en este proyecto se han sacado de varias fuentes de datos d
 Este proceso ha dado como resultado dos archivos de información mediante un análisis de la evolución del contenido y un análisis de regresión, donde podremos apreciar como la industria esta creciendo en cantidad y calidad para poder satisfacer todo tipo de demanda, y como ha ido creciendo la industria en términos de cantidad para poder dar respuesta a la alta demanda en las plataformas de streaming.
 
 
-### Datos
+### DATOS
 
 El dataset de este proyecto proviene de un match entre varios dataset de Kaggle y un posterior proceso de limpieza y unión de datos, dando como resultado los datos ubicados en la carpeta Data los cuales se han pasado a denominar coste_año.csv, disney_plus.csv, netflix_titles.csv y peliculas_plataforma.csv 
 
