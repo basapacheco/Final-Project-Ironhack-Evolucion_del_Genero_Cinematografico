@@ -1,7 +1,7 @@
 # EVOLUCIÓN DEL GENERO CINEMATOGRAFICO (:film_projector: :file_cabinet:)
 
+![plataformas](https://user-images.githubusercontent.com/71724254/116782262-53045880-aa88-11eb-9e58-44c275e46b33.png)
 
-IMAGEN DISNEY, NETFLIX, AMAZON PRIME, HULU y IMDB
 
 
 El proyecto presentado es un estudio de la evolución del genero cinematográfico en las plataformas de Disney, Netflix, Amazon Prime y Hulu, con una unión de sus valoraciones de IMDB. Este estudio pretende desvelar como a evolucionado la industria del contenido cinematográfico para adaptarse al consumidor.
@@ -36,9 +36,10 @@ Dichos datos son producto de la recolección, análisis y limpiezas de las sigui
 
 ### LIBRERÍAS USADAS
 
--Libreria 1 PANDAS
--Libreria 2 MATPLOTLIB
--Libreria 3 SEABORN
+- PANDAS
+
+- MATPLOTLIB
+- SEABORN
 
 ## Data Preparation :chart_with_upwards_trend: :gear:
 
