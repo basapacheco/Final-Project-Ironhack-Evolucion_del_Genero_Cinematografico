@@ -68,6 +68,7 @@ Análisis de la evolución del cine en plataformas
 Este análisis comprende un análisis exploratorio del contenido junto a dos gráficas, una gráfica para entender como a evolucionado la industria en niveles de calidad y un análisis que nos premie ver como evoluciona la cantidad de contenido ofrecido.
 
 Análisis de Regresión
+
 Este análisis nos permite ver cómo se ha ido creciendo el contenido a los largo del tiempo y, finalmente, ver el contenido más demandado y valorado.
 
 
