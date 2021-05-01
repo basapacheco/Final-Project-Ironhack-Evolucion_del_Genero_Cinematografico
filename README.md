@@ -18,12 +18,19 @@ El dataset de este proyecto proviene de un match entre varios dataset de Kaggle 
 Dichos datos son producto de la recolección, análisis y limpiezas de las siguientes fuentes.
 
 -Datos 1: https://www.kaggle.com/shivamb/netflix-shows
+
 -Datos 2: https://www.kaggle.com/chasewillden/netflix-shows
+
 -Datos 3: https://www.kaggle.com/nishanthkv/netflix
+
 -Datos 4: https://www.kaggle.com/harshitshankhdhar/netflix-and-amazon-prime-tv-series-dataset
+
 -Datos 5: https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
+
 -Datos 6: https://www.kaggle.com/prateekmaj21/disney-movies
+
 -Datos 7: https://www.kaggle.com/unanimad/disney-plus-shows
+
 -Datos 8: https://www.kaggle.com/nilimajauhari/amazon-prime-tv-shows
 
 
@@ -53,9 +60,9 @@ Dichos datos son producto de la recolección, análisis y limpiezas de las sigui
 
 ### Overview
 
-Se han creado dos análisis, un análisis de la evolución del cine en plataformas y un análisis de regresión.
+Se han creado dos análisis, un análisis de la evolución del cine en plataformas y un análisis de regresión.
 
-Análisis de la evolución del cine en plataformas
+Análisis de la evolución del cine en plataformas
 
 Este análisis comprende un análisis exploratorio del contenido junto a dos gráficas, una gráfica para entender como a evolucionado la industria en niveles de calidad y un análisis que nos premie ver como evoluciona la cantidad de contenido ofrecido.
 
