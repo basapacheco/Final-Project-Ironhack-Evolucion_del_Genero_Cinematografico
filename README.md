@@ -46,10 +46,15 @@ Dichos datos son producto de la recolección, análisis y limpiezas de las sigui
 1. Descarga de datos de distintas plataformas en Kaggle
 2. Estandarizar datos por parámetros simétricos
 3. Limpieza manual de datos mediante Tableu:
+
 	3.1 Rellenar datos nulos
+	
 	3.2 Fusionar Tabla
+	
 	3.3 Descarga de datasets
+	
 	3.4 Limpieza de datos y agregación de nulos faltantes
+	
 4. Resultado final, 4 dataset:
 	-Peliculas_plataforma.csv
 	-Coste_año.csv
