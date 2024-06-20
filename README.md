@@ -7,7 +7,8 @@ Este repositorio contiene dos proyectos centrados en el estudio de la evolución
 - **TFM (Trabajo de Fin de Máster)**: Estudio de la evolución del género cinematográfico en plataformas de streaming.
 - **Estudio-del-Genero-Cinematografico**: Estudio del género cinematográfico centrado en la producción a nivel mundial.
 
----
+----
+
 
 ## TFM: EVOLUCIÓN DEL GÉNERO CINEMATOGRÁFICO EN PLATAFORMAS DE STREAMING
 
